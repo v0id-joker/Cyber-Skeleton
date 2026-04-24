@@ -56,6 +56,7 @@ Welcome to my custom Windows setup repository! Below you'll find the previews of
 | **Oh My Posh** | [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh) |
 | **Pymatrix-rain** | [H-R-H/pymatrix-rain](https://github.com/H-R-H/pymatrix-rain) |
 | **PSReadLine** | [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) |
+| **Terminal-Icons** [devblackops/Terminal-Icons](https://github.com/devblackops/Terminal-Icons) |
 
 > **💡 Fastfetch ASCII Art:** If you are looking for the custom ASCII logos used in the terminal configurations, you can find the complete collection in the [ASCII Collection folder here](https://github.com/v0id-joker/Cyber-Skeleton/tree/main/config/fastfetch/ASCII%20Collection).
 
