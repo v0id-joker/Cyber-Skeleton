@@ -1,0 +1,453 @@
+:root {
+    --rosewater: #f5e0dc;
+    --flamingo: #f2cdcd;
+    --pink: #f5c2e7;
+    --mauve: #cba6f7;
+    --red: #f38ba8;
+    --maroon: #eba0ac;
+    --orange: #e87a31;
+    --peach: #fab387;
+    --peachedit: #ecd093;
+    --peachedit2: #e9bb77;
+    --yellow: #e9d250dc;
+    --green: #a6e3a1;
+    --teal: #94e2d5;
+    --sky: #89dceb;
+    --sapphire: #74c7ec;
+    --blue: #89b4fa;
+    --lavender: #b4befe;
+    --text: #cdd6f4;
+    --subtext1: #bac2de;
+    --subtext0: #a6adc8;
+    --overlay2: #9399b2;
+    --overlay1: #7f849c;
+    --overlay0: #6c7086;
+    --surface2: #585b70;
+    --surface1: #45475a;
+    --surface1: #282936;
+    --base: #1e1e2e;
+    --mantle: rgba(24, 24, 37, 0.5);
+    --crust: rgba(17, 17, 27, 0.5);
+}
+
+
+* {
+	font-size: 10px;
+	color: #cdd6f4;
+	font-weight: 500;
+	font-family: "JetBrainsMono NFP";
+	margin: 0;
+	padding: 0;
+}
+.yasb-bar {
+	padding: 0 8px;
+	margin: 0;
+    background-color: #1e1e2e; 
+    border-radius: 8px;
+}
+.widget {
+	padding: 0 6px;
+	margin: 0;
+}
+.widget .label {
+	padding: 2px 2px 1px 2px;
+}
+.widget .label.alt {
+	padding: 1px 8px 1px 8px;
+}
+.clock-widget .label {
+    padding-left:8px;
+}
+
+/* GLAZEWM WIDGET */
+.glazewm-workspaces {
+    margin: 0;
+}
+.glazewm-workspaces .ws-btn {
+    font-size: 18px;
+    background-color: transparent;
+    border: none;
+    padding: 0 1px 0 1px;
+    margin: 0;
+    color: #95a0ad;
+}
+.glazewm-workspaces .ws-btn.active_populated {
+    color: #89b4fa;
+}
+.glazewm-workspaces .ws-btn.active_empty {
+    color: #89b4fa;
+}
+.glazewm-workspaces .ws-btn.populated {
+    color: #74c7ec;
+}
+.glazewm-workspaces .ws-btn.empty {
+    color: #95a0ad;
+}
+.glazewm-workspaces .ws-btn:hover,
+.glazewm-workspaces .ws-btn.populated:hover,
+.glazewm-workspaces .ws-btn.empty:hover {
+    color: #89b4fa;
+}
+.glazewm-tiling-direction {
+    background-color: transparent;
+    padding: 0;
+    margin: 0;
+    border-radius: 6px;
+}
+.glazewm-tiling-direction .btn {
+    font-size: 18px;
+    width: 24px;
+    padding: 0 4px 0 4px;
+    color: #f9e2af;
+    border-radius: 4px;
+}   
+
+
+/*POWER MENU WIDGET*/
+/* Uptime text */
+.uptime {
+	font-size: 14px;
+	margin-bottom: 10px;
+	color: rgba(191, 202, 219, 0.726);
+	font-weight: 600;
+	font-family: "JetBrainsMono NFP";
+}
+.power-menu-widget .label {
+	color: #eba0ac;
+	font-size: 16px;
+}
+.power-menu-popup .button {
+	padding: 0;
+	width: 160px;
+	height: 240px;
+	border-radius: 4px;
+	background-color: rgba(41, 42, 58, 0.75);
+	font-family: "JetBrainsMono NFP";
+	color: white;
+	border: 4px solid rgba(255, 255, 255, 0);
+	border-radius: 10px;
+}
+.power-menu-popup .button.hover {
+	background-color: rgb(55, 56, 75);
+	border: 4px solid rgb(55, 56, 75);
+}
+.power-menu-popup .button .label {
+	margin-bottom: 8px;
+	font-size: 16px;
+	font-weight: 600;
+	color: rgba(255, 255, 255, 0.6);
+	font-family: "JetBrainsMono NFP";
+}
+.power-menu-popup .button .icon {
+	font-size: 64px;
+	padding-top: 54px;
+	color: rgba(255, 255, 255, 0.25);
+}
+.power-menu-popup .button.cancel {
+    height: 20px !important; /* Much thinner than the 240px of other buttons */
+    width: 100%; /* Full width to span across */
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.power-menu-popup .button.cancel .icon {
+    font-size: 24px !important; /* Smaller icon for the thinner button */
+    padding-top: 0px !important; /* Remove the large top padding */
+    color: rgba(243, 139, 168, 0.55);
+}
+
+.power-menu-popup .button.cancel .label {
+    margin-bottom: 0px !important; /* Remove bottom margin */
+    color: rgba(243, 139, 168, 0.95);
+}
+
+
+/* ICONS */
+.icon {
+	font-size: 16px;
+}
+.volume-widget .icon {
+	color: #89b4fa;
+	margin: 1px 2px 0 0;
+} 
+.start-menu .icon {
+    font-size: 18px;
+	color: #89b4fa
+}
+.clock-widget .icon {
+	color: #cba6f7;
+    font-size: 14px;
+}
+/*WALLPAPERS GALLERY*/
+.wallpapers-widget .icon{
+	font-size: 22px;
+}
+.wallpapers-widget .icon:hover {
+	color: #6182ed;
+}
+
+.wallpapers-gallery-window {
+    background-color: #00000054;
+    border: 0;
+    margin: 0;
+}
+.wallpapers-gallery-buttons {
+    font-family: 'suse';
+    background-color:#00000000;
+    color: rgb(255, 255, 255);
+    border: none;
+    font-size: 34px;
+    padding: 8px 0;
+    border-radius: 8px;
+    margin:0 8px 8px 8px;
+    width: 600px;
+}
+.wallpapers-gallery-buttons:hover {
+    background-color:rgba(255, 255, 255, 0.1)
+}
+.wallpapers-gallery-image {
+    border: 4px solid transparent;
+    border-radius: 10px;
+}
+.wallpapers-gallery-image:hover {
+    border: 4px solid rgb(66, 68, 83);
+}
+.wallpapers-gallery-image.focused {
+    border: 4px solid #89b4fa;
+}/* WEATHER WIDGET */
+.weather-card {
+    background-color: rgba(17, 17, 27, 0.5);
+}
+.weather-card-today {
+    border: 1px solid #282936;
+    border-radius: 8px;
+    background-color:  rgba(17, 17, 27, 0.2);
+}
+.weather-card-today .label {
+    font-size: 12px;
+}
+.weather-card-today .label.location {
+    font-size: 24px;
+    font-weight: 700;
+}
+.weather-card-today .label.alert {
+    font-size: 12px;
+    font-weight: 700;
+    background-color: rgba(247, 199, 42, 0.05);
+    border: 1px solid rgba(247, 209, 42, 0.1);
+    color: rgba(196, 181, 162, 0.85);
+    border-radius: 6px;
+    padding: 5px 0;
+}
+.weather-card-day {
+    border: 1px solid #45475a;
+    border-radius: 8px;
+    background-color:  rgba(17, 17, 27, 0.2);
+}
+
+.weather-card-day.active {
+    background-color: rgba(40, 40, 60, 0.6);
+    border: 1px solid rgba(50, 50, 75, 1);
+}
+
+.weather-card-day:hover {
+    background-color: rgba(40, 40, 60, 0.6);
+}
+
+.weather-card-day .label {
+    font-size: 12px;
+}
+
+.weather-card .hourly-container {
+    border: 1px solid #282936;
+    background-color: #3c5fa0;
+    border-radius: 8px;
+    min-height: 150px;
+}
+
+.weather-card .hourly-data {
+    /* font-family: 'Segoe UI';*/
+    /* color: cyan;*/ /* <- Font color */
+    background-color: #FAE93F; /* <- Curve color */
+    font-size: 12px;
+    font-weight: bold;
+}
+
+/* CALENDAR WIDGET */
+.calendar {
+    background-color: rgba(17, 17, 27, 0.4);
+}
+.calendar .calendar-table,
+.calendar .calendar-table::item {
+    background-color: rgba(17, 17, 27, 0);
+    color: rgba(162, 177, 196, 0.85);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    border: none;
+    outline: none;  
+}
+.calendar .calendar-table::item:selected {
+    color: rgb(255, 255, 255);
+    background-color: #007acc;
+    border-radius: 10px;
+}
+.calendar .day-label {
+    margin-top: 20px;
+}
+.calendar .day-label,
+.calendar .month-label,
+.calendar .date-label,
+.calendar .week-label,
+.calendar .holiday-label {
+    font-family: 'Segoe UI';
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+    min-width: 180px;
+    max-width: 180px;
+}
+.calendar .week-label,
+.calendar .holiday-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: rgba(162, 177, 196, 0.85);
+}
+.calendar .holiday-label {
+    color: rgba(162, 177, 196, 0.85);
+    font-weight: 700;
+}
+.calendar .month-label {
+    font-weight: normal;
+}
+.calendar .date-label {
+    font-size: 88px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    margin-top: -20px;
+}
+
+.komorebi-active-layout {
+    padding: 0
+}
+.komorebi-workspaces .offline-status {
+    color: #cdd6f4;
+    font-size: 12px;
+    padding: 0 0 0 4px;
+    font-weight: 600;
+}
+.komorebi-workspaces .ws-btn {
+    border: none;
+    background-color: #6c7086;
+    margin: 0 3px;
+    height: 9px;
+    width: 9px;
+    border-radius: 4px;
+}
+.komorebi-workspaces .ws-btn:hover {
+    color: #cdd6f4;
+}
+.komorebi-workspaces .ws-btn.populated {
+    background-color: #b4befe;
+}
+.komorebi-workspaces .ws-btn.active {
+    background-color: #89b4fa;
+    width: 36px;
+}
+
+.calendar .date-label,
+.calendar .week-label,
+.calendar .holiday-label {
+    font-family: "Segoe UI";
+    font-size: 16px;
+    color: #fff;
+    font-weight: 700;
+    min-width: 180px;
+    max-width: 180px;
+}
+.calendar .week-label,
+.calendar .holiday-label {
+    font-size: 12px;
+    font-weight: 600;
+    color: rgba(162, 177, 196, 0.85);
+}
+.calendar .holiday-label {
+    color: rgba(162, 177, 196, 0.85);
+    font-weight: 700;
+}
+.calendar .month-label {
+    font-weight: normal;
+}
+.calendar .date-label {
+    font-size: 88px;
+    font-weight: 900;
+    color: rgb(255, 255, 255);
+    margin-top: -20px;
+}
+
+/* Notification */
+.notification-widget {
+	
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding-right: 5px;
+}
+.notification-widget .icon.new-notification {
+    color: #89b4fa;
+}
+.notification-widget .label.new-notification {
+    color: #89b4fa;
+}
+.notification-widget .icon {
+    font-size: 16.5px;
+    margin-bottom: 1px;
+    padding-right: 2px;
+}
+
+/* Backgrounds for Battery*/
+.battery-widget {
+    padding-right: 5px;
+}
+
+.battery-widget .icon {
+    margin-right: 3px;
+}
+/* --- Battery Percentage Colors --- */
+
+/* Critical (Default: 0% - 10%) */
+.battery-widget .icon.status-critical {
+    color: var(--red);
+}
+
+/* Low (Default: 11% - 25%) */
+.battery-widget .icon.status-low {
+    color: var(--peach);
+}
+
+/* Medium (Default: 26% - 75%) */
+.battery-widget .icon.status-medium {
+    color: var(--yellow);
+}
+
+/* High & Full (Default: 76% - 100%) */
+.battery-widget .icon.status-high, 
+.battery-widget .icon.status-full
+ {
+    color: var(--green);
+}
+
+/* Optional: Add a blinking effect if you have charging blink enabled */
+.battery-widget .icon.blink {
+    animation: blink 1s linear infinite;
+}
+@keyframes blink {
+    50% { opacity: 0.3; }
+}
+
+/* NETWORK WIDGET */
+.wifi-widget {
+    background-color: #00000054;
+}
+.wifi-widget .icon:hover {
+    color: #15b6b6;
+}

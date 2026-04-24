@@ -1,0 +1,226 @@
+2026-04-16 12:10:09,155 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\biren\.config\yasb\styles.css
+2026-04-16 12:10:17,612 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\biren\.config\yasb\styles.css
+2026-04-16 12:10:33,122 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\biren\.config\yasb\styles.css
+2026-04-16 12:10:59,714 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:10:59,769 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:10:59,873 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:10:59,874 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:10:59,889 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:11:00,117 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:11:00,120 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:11:00,948 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:11:00,949 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:11:00,949 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:11:02,057 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:11:02,365 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:11:02,365 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:11:02,368 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:11:02,368 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:11:02,408 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-3c6d3667-395f-11f1-a39d-9543087d2427
+2026-04-16 12:11:02,476 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:11:02,589 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-3c6d3667-395f-11f1-a39d-9543087d2427
+2026-04-16 12:11:03,296 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:11:03.295922
+2026-04-16 12:15:34,444 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:15:34,492 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:15:34,596 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:15:34,596 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:15:34,606 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:15:35,183 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:15:35,193 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:15:36,039 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:15:36,040 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:15:36,041 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:15:37,174 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:15:37,504 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:15:37,505 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:15:37,509 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:15:37,510 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:15:37,512 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-e06c1b37-395f-11f1-91a8-9543087d2427
+2026-04-16 12:15:37,767 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:15:37,933 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-e06c1b37-395f-11f1-91a8-9543087d2427
+2026-04-16 12:15:38,659 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:15:38.658986
+2026-04-16 12:16:45,211 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:16:45,261 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:16:45,372 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:16:45,372 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:16:45,380 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:16:45,754 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:16:45,787 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:16:46,773 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:16:46,774 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:16:46,775 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:16:47,979 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:16:48,306 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:16:48,307 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:16:48,307 [ERROR] [MainThread] [root/widget_builder.py:111]: Failed to validate widget(s) due to invalid options  - komorebi_workspaces
+      label_zero_index:
+      - Input should be a valid boolean, unable to interpret input
+      
+2026-04-16 12:16:48,316 [INFO] [Dummy-7] [root/event_listener.py:55]: Created named pipe yasb-0a9fa7de-3960-11f1-9ccd-9543087d2427
+2026-04-16 12:16:48,492 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:16:48,493 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:16:48,667 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:16:48,676 [INFO] [Dummy-7] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-0a9fa7de-3960-11f1-9ccd-9543087d2427
+2026-04-16 12:16:49,512 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:16:49.512400
+2026-04-16 12:16:55,471 [DEBUG] [Thread-11] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:16:55,522 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:16:55,632 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:16:55,632 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:16:55,640 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:16:55,878 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:16:55,900 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:16:57,016 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:16:57,017 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:16:57,018 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:16:58,153 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:16:58,570 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:16:58,572 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:16:58,577 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:16:58,577 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:16:58,646 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-10be0599-3960-11f1-ae28-9543087d2427
+2026-04-16 12:16:58,806 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:16:58,948 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-10be0599-3960-11f1-ae28-9543087d2427
+2026-04-16 12:16:59,381 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:16:59.381239
+2026-04-16 12:17:25,466 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:17:25,516 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:17:25,634 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:17:25,634 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:17:25,648 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:17:26,000 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:17:26,008 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:17:27,078 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:17:27,079 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:17:27,080 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:17:28,192 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:17:28,526 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:17:28,527 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:17:28,530 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:17:28,530 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:17:28,532 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-22989e15-3960-11f1-8e6f-9543087d2427
+2026-04-16 12:17:28,763 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:17:28,918 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-22989e15-3960-11f1-8e6f-9543087d2427
+2026-04-16 12:17:29,357 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:17:29.357381
+2026-04-16 12:17:45,243 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:17:45,305 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:17:45,408 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:17:45,409 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:17:45,416 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:17:45,763 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:17:45,768 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:17:46,879 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:17:46,880 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:17:46,880 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:17:48,324 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:17:48,673 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:17:48,674 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:17:48,678 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:17:48,678 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:17:48,695 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-2e9ae450-3960-11f1-acba-9543087d2427
+2026-04-16 12:17:48,863 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:17:49,018 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-2e9ae450-3960-11f1-acba-9543087d2427
+2026-04-16 12:17:49,529 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:17:49.529637
+2026-04-16 12:19:06,378 [DEBUG] [Thread-7] [root/watcher.py:97]: Imported stylesheet modified: c:\users\biren\.config\yasb\music_hover.css
+2026-04-16 12:19:06,457 [DEBUG] [Thread-7] [root/watcher.py:84]: Stylesheet modified: c:\users\biren\.config\yasb\styles.css
+2026-04-16 12:27:48,797 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:27:48.797513
+2026-04-16 12:37:48,879 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:37:48.879868
+2026-04-16 12:38:17,692 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:38:17,700 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: mapping values are not allowed here
+  in "C:\Users\BIREN\.config\yasb\config.yaml", line 32, column 22
+2026-04-16 12:38:26,460 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:38:26,467 [ERROR] [MainThread] [root/bar_manager.py:72]: Error loading config: mapping values are not allowed here
+  in "C:\Users\BIREN\.config\yasb\config.yaml", line 32, column 22
+2026-04-16 12:38:33,607 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:38:33,712 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:38:33,827 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:38:33,828 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:38:33,843 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:38:34,236 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:38:34,278 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:38:35,540 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:38:35,541 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:38:35,542 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:38:37,486 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:38:37,903 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:38:37,904 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:38:37,916 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:38:37,916 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:38:37,926 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-173495de-3963-11f1-94de-9543087d2427
+2026-04-16 12:38:38,179 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:38:38,319 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-173495de-3963-11f1-94de-9543087d2427
+2026-04-16 12:38:38,815 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:38:38.815174
+2026-04-16 12:38:56,524 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:38:56,591 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:38:56,703 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:38:56,703 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:38:56,712 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:38:56,990 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:38:57,005 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:38:58,028 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:38:58,030 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:38:58,030 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:38:59,281 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:38:59,640 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:38:59,641 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:38:59,645 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:38:59,645 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:38:59,734 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-242939ef-3963-11f1-8d3d-9543087d2427
+2026-04-16 12:38:59,876 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:39:00,091 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-242939ef-3963-11f1-8d3d-9543087d2427
+2026-04-16 12:39:00,457 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:39:00.457606
+2026-04-16 12:39:07,663 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:39:23,832 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:39:23,901 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:39:24,015 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:39:24,016 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:39:24,026 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:39:24,344 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:39:24,362 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:39:25,450 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:39:25,451 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:39:25,452 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:39:26,758 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:39:27,162 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:39:27,166 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:39:27,172 [INFO] [Dummy-8] [root/event_listener.py:55]: Created named pipe yasb-34910172-3963-11f1-a605-9543087d2427
+2026-04-16 12:39:27,173 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:39:27,174 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:39:27,434 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:39:27,622 [INFO] [Dummy-8] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-34910172-3963-11f1-a605-9543087d2427
+2026-04-16 12:39:28,210 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:39:28.210169
+2026-04-16 12:39:46,664 [DEBUG] [Thread-7] [root/watcher.py:90]: Config file modified: c:\users\biren\.config\yasb\config.yaml
+2026-04-16 12:39:46,725 [INFO] [MainThread] [root/controller.py:21]: Reloading Application because of config change.
+2026-04-16 12:39:46,842 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:39:46,842 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:39:46,850 [INFO] [MainThread] [root/bar_manager.py:85]: Successfully loaded updated config and re-initialised all bars.
+2026-04-16 12:39:47,105 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:39:47,122 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:39:48,447 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:39:48,449 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:39:48,450 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:39:50,052 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:39:50,494 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:39:50,496 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:39:50,500 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:39:50,501 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:39:50,611 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-4278f730-3963-11f1-bc1f-9543087d2427
+2026-04-16 12:39:50,751 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:39:50,967 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-4278f730-3963-11f1-bc1f-9543087d2427
+2026-04-16 12:39:51,184 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:39:51.184437
+2026-04-16 12:49:50,826 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:49:50.825809
+2026-04-16 12:51:01,863 [INFO] [MainThread] [root/controller.py:21]: Reloading Application from tray...
+2026-04-16 12:51:01,977 [INFO] [MainThread] [cli_server/cli_server.py:114]: Log pipe server stopped
+2026-04-16 12:51:01,977 [DEBUG] [MainThread] [cli_server/cli_server.py:209]: CLI server stopped
+2026-04-16 12:51:02,297 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping WindowsNotificationEventListener...
+2026-04-16 12:51:02,305 [INFO] [MainThread] [root/bar_manager.py:111]: Stopping KomorebiEventListener...
+2026-04-16 12:51:03,489 [INFO] [MainThread] [root/log.py:99]: YASB v1.9.1
+2026-04-16 12:51:03,491 [INFO] [CLIPipeServer] [cli_server/cli_server.py:215]: CLI server started v1.1.6
+2026-04-16 12:51:03,492 [INFO] [MainThread] [cli_server/cli_server.py:106]: Log pipe server started
+2026-04-16 12:51:05,262 [INFO] [MainThread] [root/service.py:52]: AudioOutputService starting...
+2026-04-16 12:51:05,706 [INFO] [MainThread] [root/bar_manager.py:95]: Starting WindowsNotificationEventListener...
+2026-04-16 12:51:05,707 [INFO] [MainThread] [root/bar_manager.py:95]: Starting KomorebiEventListener...
+2026-04-16 12:51:05,712 [INFO] [MainThread] [root/watcher.py:65]: Watching directory: c:\users\biren\.config\yasb
+2026-04-16 12:51:05,714 [INFO] [MainThread] [root/watcher.py:104]: Created file watcher
+2026-04-16 12:51:05,715 [INFO] [Dummy-9] [root/event_listener.py:55]: Created named pipe yasb-d4ee1c2f-3964-11f1-ac52-9543087d2427
+2026-04-16 12:51:05,931 [INFO] [MainThread] [root/update_service.py:429]: Background update checker started
+2026-04-16 12:51:06,024 [INFO] [Dummy-9] [root/event_listener.py:149]: Komorebi connected to named pipe: yasb-d4ee1c2f-3964-11f1-ac52-9543087d2427
+2026-04-16 12:51:06,807 [INFO] [MainThread] [root/api.py:69]: Fetching new weather data at 2026-04-16 12:51:06.807339

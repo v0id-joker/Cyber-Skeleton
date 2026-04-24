@@ -1,0 +1,105 @@
+{
+    "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+    "logo": {
+        "source": "C:/Users/BIREN/.config/fastfetch/ascii.txt",
+        "color": {
+            "1" : "White"
+        },
+        "padding": {
+            "top": 3,
+            "left": 0,
+            "Right": 3
+        }
+    },
+    "display": {
+        "separator": "  ",
+        "color": {
+            "keys": "white",  // Changes 'SYSTEM', 'CPU', etc.
+            "output": "#808080",   // Changes the actual system info
+            "separator": "white" // make the colour a bit 
+        },
+        "key": {
+            "width": 17
+        }
+    },
+    "modules": [
+        "break",
+        {
+            "type": "custom",
+            "format": "          󰌆    lilwindows • Fastfetch    󰌆",
+            "outputColor": "white", 
+            "hideDefaultSeparator": true // This removes the arrow
+        },
+        {
+            "type": "custom",
+            "format": "■──────────────────────────────────────────────────────■",
+            "outputColor": "white",
+            "hideDefaultSeparator": true // This removes the arrow
+        },
+        "break",
+        {
+            "type": "os",
+            "key": "󰣇  SYSTEM  "
+        },
+        {
+            "type": "kernel",
+            "key": "󰌽  KERNEL  "
+        },
+        {
+            "type": "uptime",
+            "key": "󰅐  UPTIME  "
+        },
+        {
+            "type": "packages",
+            "key": "󰏖  PACKS  "
+        },
+        "break",
+        {
+            "type": "cpu",
+            "key": "  CPU     "
+        },
+        {
+            "type": "gpu",
+            "key": "󰍹  GPU     "
+        },
+        {
+            "type": "memory",
+            "key": "󰢮  RAM     "
+        },
+        {
+            "type": "disk",
+            "key": "󰋊  DISK    "
+        },
+        "break",
+        {
+            "type": "wm",
+            "key": "󰖲  WINDOW  "
+        },
+        {
+            "type": "shell",
+            "key": "󰞷  SHELL   "
+        },
+        {
+            "type": "terminal",
+            "key": "󰆍  TERM    "
+        },
+        {
+            "type": "media",
+            "key": "󰎆  PLAYER  "
+        },
+        "break",
+        {
+            "type": "custom",
+            "format": "■──────────────────────────────────────────────────────■",
+            "outputColor": "white", 
+            "hideDefaultSeparator": true // This removes the arrow
+        },
+        {
+            "type": "custom",
+            "format": "               󰮯  󰊠  󰊠  󰊠  󰊠  󰊠  󰊠  󰊠",
+            "outputColor": "white", 
+            "hideDefaultSeparator": true // This removes the arrow
+        },
+        "break"
+    ]
+}
