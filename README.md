@@ -57,6 +57,8 @@ Welcome to my custom Windows setup repository! Below you'll find the previews of
 | **Pymatrix-rain** | [H-R-H/pymatrix-rain](https://github.com/H-R-H/pymatrix-rain) |
 | **PSReadLine** | [PowerShell/PSReadLine](https://github.com/PowerShell/PSReadLine) |
 
+> **💡 Fastfetch ASCII Art:** If you are looking for the custom ASCII logos used in the terminal configurations, you can find the complete collection in the [ASCII Collection folder here](https://github.com/v0id-joker/Cyber-Skeleton/tree/main/config/fastfetch/ASCII%20Collection).
+
 ---
 
 ## 🛠️ Core System Utilities
