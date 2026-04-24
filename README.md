@@ -93,5 +93,5 @@ These are the specific Windhawk mods used to style the Windows 11 UI:
 * **SpeechBubble & Hexes:** A custom "cut" skin created from a wallpaper screenshot to layer elements (like the ticking clock and hexes) behind the foreground. Included in this repo.*(📺 [Tutorial for making a cut here](https://www.youtube.com/watch?v=g4IjPDMWezg))*
 
 ### Extras
-* **Animated Wallpaper:** [Neon Cyber Skeleton](https://steamcommunity.com/sharedfiles/filedetails/?id=2210521967) via [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
+* **Animated Wallpaper:** [Neon Cyber Skeleton](https://steamcommunity.com/sharedfiles/filedetails/?id=2210521967) via [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/).*In case If you don't have Wallpaper Engine, a live & static versions are included in the repo.*
 * **Cursor:** [Hollow Knight Game Arrow](https://sweezy-cursors.com/cursor/hollow-knight-game-arrow/).
