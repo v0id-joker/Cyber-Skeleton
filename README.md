@@ -84,16 +84,14 @@ These are the specific Windhawk mods used to style the Windows 11 UI:
 
 ---
 
-## 💧 Rainmeter Skins & Desktop Assets
+## 💧 Rainmeter Skins & Assets
 
-* **[Good Morning (Modified)](https://www.deviantart.com/a-e-w/art/Good-Morning-1-0-341778244):** System Monitor circles, volume adjuster circle (around eye), digital clock, and ticking seconds clock (big circle). *Note: I added additional GPU circles, Weather circle, and the volume adjuster circle as they weren't included in the original package.*
-* **[NXT-OS](https://nxtos.com/):** Used specifically for the Visualizer.
-* **[Animated Circular Icon Launcher](https://visualskins.com/skin/animated-circular-icon-launcher):** For the circular icons.
-* **[GameHUB 2 Launcher](https://www.deviantart.com/not-finch/art/GameHUB-launcher-2-for-Rainmeter-785369648):** An amazing launcher. Please give the creator some love! Very active on DeviantArt and helped me link my icons.
-* **[Muziko](https://www.deviantart.com/nomnuggetnom/art/Muziko-for-Rainmeter-314928622):** Used for Song Information.
-* **3D Depth Cut Skin:** To get the ticking seconds clock to appear behind the system monitor circles and the wolf, I made a cut skin with a screenshot of the wallpaper. It is included in this repo. *(📺 [Tutorial for making a cut here](https://www.youtube.com/watch?v=g4IjPDMWezg))*
+* **[Mond](https://visualskins.com/skin/mond):** Date and Media Player.
+* **[Neon Space](https://www.deviantart.com/99villages/art/Neon-Space-Rainmeter-Skin-4-0-Jan-2022-Update-442236472):** Main futuristic clock.
+* **[Tiny Weather](https://www.deviantart.com/xenium-art/art/Tiny-Weather-Animated-UPDATED-25-JAN-2023-939250053):** Animated weather module.
+* **[Clear Honeycomb](https://www.deviantart.com/bud1994/art/Clear-Honeycomb-3-17-830905496):** Minimalist icon launcher.
+* **SpeechBubble & Hexes:** A custom "cut" skin created from a wallpaper screenshot to layer elements (like the ticking clock and hexes) behind the foreground. Included in this repo.*(📺 [Tutorial for making a cut here](https://www.youtube.com/watch?v=g4IjPDMWezg))*
 
 ### Extras
-* **Wallpaper:** Available via [Wallpaper Engine](https://steamcommunity.com/sharedfiles/filedetails/?id=1134328086). The 3D cut skin previously mentioned was used to slightly alter the wallpaper (like the eye and "A" on the wolf's forehead). *If you don't have Wallpaper Engine, a static version is included in the repo.*
-* **Font:** [Kaneiwa Alp](https://www.dafont.com/kaneiwa-alp.font) (Used for the clock and circles).
+* **Animated Wallpaper:** [Neon Cyber Skeleton](https://steamcommunity.com/sharedfiles/filedetails/?id=2210521967) via [Wallpaper Engine](https://store.steampowered.com/app/431960/Wallpaper_Engine/).
 * **Cursor:** [Hollow Knight Game Arrow](https://sweezy-cursors.com/cursor/hollow-knight-game-arrow/).
