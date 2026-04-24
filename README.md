@@ -5,9 +5,9 @@ Welcome to my custom Windows setup repository! Below you'll find the previews of
 ### 📸 Previews
 
 <div align="center">
-  <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/cb7033d7-fa84-4f79-b145-7dcc4b08db96" />
-<br><br>
   <img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/302a8929-36f8-4cc3-8066-3d206c9be4be" />
+<br><br>
+  <img width="1920" height="1080" alt="Screenshot (56)" src="https://github.com/user-attachments/assets/cb7033d7-fa84-4f79-b145-7dcc4b08db96" />
 </div>
 
 <br>
